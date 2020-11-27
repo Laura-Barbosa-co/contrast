@@ -22,11 +22,11 @@ dark_header: false           # always keep the header dark
 # Menu
 
 navigation:
-  - {file: "README.md", icon: address-card}
   - {file: "insights.md", icon: clipboard}
   - {file: "notes.md", icon: books}
   - {file: "bookshelf.md", icon: smile}
   - {file: "archive.html", icon: archive}
+  - {file: "README.md", icon: address-card}
   
 
 external:                    # see http://fontawesome.com/icons
