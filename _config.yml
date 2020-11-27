@@ -22,7 +22,6 @@ dark_header: false           # always keep the header dark
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
   - {file: "insights.md", icon: clipboard}
   - {file: "notes.md", icon: books}
