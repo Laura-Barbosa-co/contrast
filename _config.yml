@@ -26,6 +26,7 @@ navigation:
   - {file: "bookshelf.md", icon: smile}
   - {file: "archive.html", icon: archive}
   - {file: "README.md", icon: address-card}
+  - {file: "poesia.md", icon: books}
   
 
 external:                    # see http://fontawesome.com/icons
