@@ -24,7 +24,7 @@ dark_header: false           # always keep the header dark
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
-  - {file: "iideias & insights.md", icon: clipboard} 
+  - {file: "ideias & insights.md", icon: clipboard} 
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
