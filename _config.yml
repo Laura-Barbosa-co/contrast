@@ -24,7 +24,7 @@ dark_header: false           # always keep the header dark
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
-  - {file: "2020-11-27-ítaca.md", icon: address-card}
+  - {file: "ideias & insights.md", icon: clipboard}
   
 
 external:                    # see http://fontawesome.com/icons
