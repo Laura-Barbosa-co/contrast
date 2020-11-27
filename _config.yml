@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 sidebar: false               # show a sidebar instead of the usual header
 show_description: true       # show the site description in the sidebar
-show_excerpts: false         # show article excerpts on the home page
+show_excerpts: true         # show article excerpts on the home page
 show_related: false          # show the previous and next links after every post
 show_title: false            # always keep the site title visible
 
@@ -24,6 +24,7 @@ dark_header: false           # always keep the header dark
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
+  
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
