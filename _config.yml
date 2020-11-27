@@ -24,9 +24,10 @@ dark_header: false           # always keep the header dark
 navigation:
   - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
-  - {file: "ideias & insights.md", icon: clipboard}
+  - {file: "insights.md", icon: clipboard}
+  - {file: "notes.md", icon: books}
+  - {file: "bookshelf.md", icon: smile}
   - {file: "archive.html", icon: archive}
-  
   
 
 external:                    # see http://fontawesome.com/icons
